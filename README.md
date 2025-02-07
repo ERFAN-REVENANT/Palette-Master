@@ -70,10 +70,6 @@ PaletteMaster is an **AI-powered color palette generator** designed for **design
 
 ✅ All palettes are **encrypted and securely stored**. We never share your data.
 
-### **Q: Does PaletteMaster support dark mode?**
-
-✅ Absolutely! You can toggle between **light and dark themes** in the settings.
-
 ---
 
 ## 💖 Support the Project
@@ -87,10 +83,8 @@ Love PaletteMaster? Help us grow!\
 
 ## 🔗 Connect with Us
 
-📧 **Contact:** [support@palettemaster.com](mailto\:support@palettemaster.com)\
 🌐 **Website:** [palettemaster.com](https://palettemaster.vercel.app/)\
 🐦 **Twitter:** [@palettemaster](https://twitter.com/palettemaster)\
-📘 **GitHub:** [[PaletteMaster Repository]([https://github.com/yourusername/palettemaster](https://github.com/ERFAN-REVENANT/Palette-Master))]
 
 > 🎨 **Turn your color inspirations into reality with PaletteMaster!**
 
