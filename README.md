@@ -1,7 +1,6 @@
 # PaletteMaster - AI-Powered Color Palette Generator 🎨✨
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/palettemaster?style=social)](https://github.com/yourusername/palettemaster)
+[![GitHub Stars](https://img.shields.io/github/stars/ERFAN-REVENANT/palettemaster?style=social)](https://github.com/ERFAN-REVENANT/palettemaster)
 
 > **Discover, Create, and Export Stunning Color Palettes with AI**  
 > **Trusted by 50,000+ designers, developers, and artists worldwide.**  
@@ -106,7 +105,6 @@ Love PaletteMaster? Help us grow!
 ### 🔗 Connect with Us
 
 - **Website:** [palettemaster.com](https://palettemaster.vercel.app/) 🌐
-- **Twitter:** [@palettemaster](https://twitter.com/palettemaster) 🐦
 
 > **Turn your color inspirations into reality with PaletteMaster!** ✨🎨
 
