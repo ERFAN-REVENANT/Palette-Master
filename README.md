@@ -1,4 +1,4 @@
-# PaletteMaster - AI-Powered Color Palette Generator 🎨✨
+# PaletteMaster - AI-Powered Palette Generator 🎨✨
 
 [![GitHub Stars](https://img.shields.io/github/stars/ERFAN-REVENANT/palette-master?style=social)](https://github.com/ERFAN-REVENANT/palette-master)
 
