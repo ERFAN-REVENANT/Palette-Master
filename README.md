@@ -1,6 +1,6 @@
 # PaletteMaster - AI-Powered Color Palette Generator 🎨✨
 
-[![GitHub Stars](https://img.shields.io/github/stars/ERFAN-REVENANT/palettemaster?style=social)](https://github.com/ERFAN-REVENANT/palettemaster)
+[![GitHub Stars](https://img.shields.io/github/stars/ERFAN-REVENANT/palette-master?style=social)](https://github.com/ERFAN-REVENANT/palette-master)
 
 > **Discover, Create, and Export Stunning Color Palettes with AI**  
 > **Trusted by 50,000+ designers, developers, and artists worldwide.**  
