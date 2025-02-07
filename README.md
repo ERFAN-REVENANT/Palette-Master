@@ -1,6 +1,7 @@
 # PaletteMaster - AI-Powered Palette Generator 🎨✨
 
 [![GitHub Stars](https://img.shields.io/github/stars/ERFAN-REVENANT/palette-master?style=social)](https://github.com/ERFAN-REVENANT/palette-master)
+<a href="https://www.producthunt.com/posts/palettemaster?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-palettemaster" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=856889&theme=light&t=1738920968612" alt="PaletteMaster - AI&#0045;Powered&#0032;Palette&#0032;Generator | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 > **Discover, Create, and Export Stunning Color Palettes with AI**  
 > **Trusted by 50,000+ designers, developers, and artists worldwide.**  
