@@ -190,3 +190,10 @@ PaletteMaster یک **تولیدکننده پالت رنگ هوشمند** است 
 - **وب‌سایت:** [palettemaster.com](https://palettemaster.vercel.app/) 🌐
 
 > **الهام‌بخشی‌های رنگی خود را با PaletteMaster به واقعیت تبدیل کنید!** ✨🎨
+
+
+---
+
+### 📚 Keywords
+
+color palettes, color scheme generator, AI-powered design tools, online color tools, creative tools for designers, digital art color generator, free palette tool, shades and tints, color harmonies, light mode, dark mode, color accessibility, branding colors, UI/UX design palettes, CSS palettes, Tailwind CSS, hex codes, gradient generator, export palettes, palette sharing, web design colors, artistic inspiration, complementary colors, analogous palettes, triadic schemes, digital painting colors, mood board generator, color exploration, color blending, creative design, professional palettes, custom color schemes, online color picker, design resources, export formats, design accessibility, creative inspiration, modern design tools, AI tools for creativity, web development colors, accessible color schemes, export JSON, gradient creation, branding tools, design workflows, creative process, digital design trends, hex color picker, advanced color tools.
