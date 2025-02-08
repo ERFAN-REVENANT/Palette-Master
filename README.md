@@ -2,6 +2,8 @@
 
 <a href="https://www.producthunt.com/posts/palettemaster?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-palettemaster" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=856889&theme=light&t=1738920968612" alt="PaletteMaster - AI&#0045;Powered&#0032;Palette&#0032;Generator | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
+![modified_image (4)](https://github.com/user-attachments/assets/a61f9bcd-1523-4e40-ab7a-1da3baa5d053)
+
 > **Discover, Create, and Export Stunning Color Palettes with AI**  
 > **Trusted by 50,000+ designers, developers, and artists worldwide.**  
 > 🌟 **Inspire your creativity and bring your ideas to life!**
